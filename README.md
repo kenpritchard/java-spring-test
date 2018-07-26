@@ -16,6 +16,6 @@ Test that you can clone a project thru a f/w, build it using both gradle and mav
 3. Use ctrl-c in the terminal to stop the application
 
 ### Run Maven Build
-1. `java -jar build/libs/java-spring-maven-test-0.1.0.jar`
+1. `java -jar target/java-spring-maven-test-0.1.0.jar`
 2. Open http://localhost:8080/ in your browser to verify
 3. Use ctrl-c in the terminal to stop the application
